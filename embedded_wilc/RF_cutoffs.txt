@@ -1,0 +1,17 @@
+light-on
+C9M	0.65
+C3D	0.85
+C3Dur	0.75
+L1	2
+L2	1.5
+TD	5
+TDur	3
+
+light-off
+C9M	0.8
+C3D	0.75
+C3Dur	1.6
+L1	1.2
+L2	1.5
+TD	2
+TDur	2
