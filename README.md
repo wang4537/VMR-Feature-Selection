@@ -21,7 +21,7 @@ Both R and Python are used to generate the results. Below are the packages and l
 
 Please install the packages/libraries following the their instructions prior to running the code.
 
-### Packages and libraries
+### Data Availability
 The raw data can be accessed by the following Harvard Dataverse link: https://doi.org/10.7910/DVN/B8HBU9
 
 ## Usage
